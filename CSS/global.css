@@ -1,0 +1,20 @@
+/* colors */
+
+/*
+60% of #A11124
+30% of #E2671D
+10% of #7E700B
+*/
+
+:root {
+
+/* var(--dominantColor) !important; */
+dominantColor: #A11124;
+/* var(--secondaryColor) !important; */
+secondaryColor: #E2671D;
+/* var(--accentColor) !important; */
+accentColor: #7E700B;
+
+
+
+}
